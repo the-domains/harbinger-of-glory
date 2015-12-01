@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Harbinger of Glory]]></title>
+        <description><![CDATA[Harbinger of Glory]]></description>
+        <link>https://thegrid.ai/harbinger-of-glory/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 19:53:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harbinger-of-glory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Browning of America</p>]]></description>
+            <link>https://thegrid.ai/harbinger-of-glory/8c08c17c-590c-4179-bf6c-9cc071a1fecb/index.html</link>
+            <guid isPermaLink="false">8c08c17c-590c-4179-bf6c-9cc071a1fecb</guid>
+            <pubDate>Tue, 01 Dec 2015 19:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>An Historical Perspective</p>]]></description>
+            <guid isPermaLink="false">3313e5d1-8b94-4915-9edd-4d12a5bba062</guid>
+            <pubDate>Tue, 01 Sep 2015 00:36:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Have You Heard?</p>]]></description>
+            <guid isPermaLink="false">3dd08287-9e64-4851-b636-6b9d8da8b835</guid>
+            <pubDate>Tue, 01 Sep 2015 00:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d20992-a483-4b9e-bbc4-bf3221f3f41d.jpg">]]></description>
+            <link>https://thegrid.ai/harbinger-of-glory/aa11b501-af7f-4df1-ab16-cc17864e2039/index.html</link>
+            <guid isPermaLink="false">aa11b501-af7f-4df1-ab16-cc17864e2039</guid>
+            <pubDate>Wed, 29 Jul 2015 16:41:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
